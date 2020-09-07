@@ -3,3 +3,5 @@ Some notebooks with powerful trading strategies. The following topics are includ
 
 1. Beta Hedging
 2. Pairs Trading
+3. Golden Cross
+4. TTM Squeeze
