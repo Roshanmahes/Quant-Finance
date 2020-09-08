@@ -5,3 +5,4 @@ Some notebooks with powerful trading strategies. The following topics are includ
 2. Pairs Trading
 3. Golden Cross
 4. TTM Squeeze
+5. Parabolic SAR
